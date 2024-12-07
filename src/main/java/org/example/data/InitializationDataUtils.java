@@ -3,7 +3,9 @@ package org.example.data;
 import lombok.experimental.UtilityClass;
 
 import javax.swing.*;
-import java.util.*;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Objects;
 
 @UtilityClass
 public class InitializationDataUtils {
